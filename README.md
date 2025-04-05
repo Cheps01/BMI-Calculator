@@ -34,4 +34,4 @@
 1. Connect an **Android device** via USB **or** start an **emulator**.
 2. Click **Run ▶ (Shift + F10)** in Android Studio.
 3. Select the device/emulator.
-4. The app should now launch! 🚀
+4. The app should now launch!
